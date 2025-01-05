@@ -1,0 +1,22 @@
+# Bytecode files
+*.pyc
+__pycache__/
+
+# Development database
+db.sqlite3
+
+# Virtual environments
+venv/
+rango/
+
+# Static and media files
+/static/
+/media/
+
+# IDE/Editor settings
+.vscode/
+.idea/
+.DS_Store
+
+# System-specific files
+Thumbs.db
